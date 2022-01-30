@@ -1,7 +1,15 @@
-# FlappyBird-JavaScript
+# Don't Touch My Birdie
 
-The Snake game, created using JavaScript, and The HTML5 canvas.
+A clone of the widely-popular game [Flappy Bird](http://en.wikipedia.org/wiki/Flappy_Bird) created using the [Phaser framework](http://phaser.io/).
 
-Download the starter template, and follow the tutorial on youtube step by step.
+[Open in your mobile browser](https://marksteve.com/dtmb)
 
-Tutorial link : https://www.youtube.com/watch?v=L07i4g-zhDA
+![Screenshots](screenshots.png)
+
+## Note
+
+This was only tested on an iPhone 5. Expect it to hilariously fail on other devices.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
